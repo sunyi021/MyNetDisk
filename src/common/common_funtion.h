@@ -1,0 +1,4 @@
+#ifndef COMMON_FUNCTION_H
+#define COMMON_FUNCTION_H
+
+#endif // COMMON_FUNCTION_H

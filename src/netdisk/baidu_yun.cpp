@@ -9,6 +9,7 @@
 const std::string API_KEY =     "UXTsm9M79DYzHk5KpEcUCZXB";
 const std::string SECRET_KEY =  "CIFX3aMPyQHgN78xCCL2YOi6zLKb1Qfb";
 
+const std::string REFRESH_TOKEN = "4.2d5faca37260a2de2219bdacb5b9b830.315360000.1698680193.1765001207-1634735";
 const std::string ACCESS_TOKEN =    "access_token=3.4a4a6377dc7e9b068809d908b7ab857c.2592000.1385912193.1765001207-1634735";
 const std::string SESSION_SECRET =  "411f9929275c558bf05717df49c9e29b";
 const std::string SESSION_KEY =     "94qyUuTsyPchyJQ%2Fm7eTCOpxZT8EefkZydCZWRts6hqlO2Tj5zTBWBwZ0kMyL%2BrMztGHFDGf%2B207968Ctn1Px5FvZrutlopF";
